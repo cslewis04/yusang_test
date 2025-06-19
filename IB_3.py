@@ -23,7 +23,8 @@ from openpyxl.utils.dataframe import dataframe_to_rows
 from openpyxl.styles import Alignment, PatternFill, colors, Color, Font
 
 warnings.filterwarnings(action='ignore')
-API_KEY = '9ed5bc3d6d1fee4f927c5d6a44eb5368d222824c'
+#API_KEY = '9ed5bc3d6d1fee4f927c5d6a44eb5368d222824c'
+API_KEY = '71b753d5fc4afd62bcafda3e1ae36fc53aad1cff'
 dart = OpenDartReader(API_KEY)
 
 
